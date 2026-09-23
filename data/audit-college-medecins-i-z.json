@@ -1,0 +1,69 @@
+{
+  "audit_rows": 851,
+  "matched_existing": 140,
+  "ambiguous_resolved": 1,
+  "added_new": 711,
+  "master_total": 1675,
+  "mg_total": 846,
+  "mg_active_technical": 706,
+  "pediatrie_total": 93,
+  "pediatrie_active_technical": 84,
+  "audit_status_counts": {
+    "Actif apparent": 703,
+    "Ne pratique plus": 94,
+    "À vérifier": 48,
+    "Remplaçant": 6
+  },
+  "scope_counts": {
+    "full": 694,
+    "targeted": 157
+  },
+  "match_examples": [
+    [
+      "IKOKO-Y'AKALO Nana",
+      "IKOKO-Y'AKALO Nana"
+    ],
+    [
+      "ISLER Jean-Pascal",
+      "ISLER Jean-Pascal"
+    ],
+    [
+      "ISMAIL Mariem",
+      "Dr. Mariem Ismail"
+    ],
+    [
+      "IVANOV Atanas",
+      "IVANOV Atanas"
+    ],
+    [
+      "IVANOV Spassimir",
+      "IVANOV Spassimir"
+    ],
+    [
+      "IVANTU Mihai-Cristian",
+      "Dr. Mihai-Cristian Ivantu"
+    ],
+    [
+      "JACKSON Sophie",
+      "Dr. Sophie Jackson"
+    ],
+    [
+      "JAGER (NRECAJ) Carole",
+      "Dr. Carole Jager (Nrecaj)"
+    ]
+  ],
+  "benchmark_latest": {
+    "medecine_generale": {
+      "actifs_techniques_base": 706,
+      "praticiens_obsante_2023_factsheet_2025": 779,
+      "couverture_pct": 90.6,
+      "ecart": 73
+    },
+    "pediatrie": {
+      "actifs_techniques_base": 84,
+      "praticiens_obsante_2023_factsheet_2025": 156,
+      "couverture_pct": 53.8,
+      "ecart": 72
+    }
+  }
+}

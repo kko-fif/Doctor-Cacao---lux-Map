@@ -1,0 +1,14 @@
+{
+  "specialite": "Médecine générale",
+  "annee": 2023,
+  "inscrits_registre": 1277,
+  "autorises_exercer": 1074,
+  "non_autorises": 203,
+  "professionnellement_actifs": 842,
+  "professionnellement_inactifs": 232,
+  "praticiens": 794,
+  "non_praticiens": 48,
+  "pension_retraite": 101,
+  "source": "https://obs.gouvernement.lu/dam-assets/observatoire/documents/professionnels-de-la-sante/rapport-professionnels-de-la-sante-2024.pdf",
+  "note": "Les catégories proviennent du RDPS, CCSS et CNS. Les 101 pension/retraite sont inclus parmi les professionnellement inactifs; ce nombre n'est pas un décompte nominatif du registre public du Collège médical."
+}
