@@ -1,0 +1,23 @@
+{
+  "medecins_avant": 1675,
+  "medecins_ajoutes_college_ABCDE": 390,
+  "medecins_apres": 2065,
+  "lignes_ah_consolide": 1014,
+  "lignes_az_fusionne": 1865,
+  "ah_par_lettre": {
+    "A": 163,
+    "B": 318,
+    "C": 216,
+    "D": 76,
+    "E": 66,
+    "F": 57,
+    "G": 50,
+    "H": 68
+  },
+  "ah_par_source": {
+    "Base historique + Collège médical": 52,
+    "Collège médical": 809,
+    "Doctena + Collège médical": 23,
+    "V4 consolidée": 130
+  }
+}

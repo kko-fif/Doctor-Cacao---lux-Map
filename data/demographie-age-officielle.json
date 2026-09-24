@@ -1,0 +1,97 @@
+{
+  "methodologie": "Répartition nationale agrégée des praticiens par tranche d'âge. Aucun âge individuel n'est attribué aux médecins de la base nominative.",
+  "specialites": {
+    "Médecine générale": {
+      "annee": 2023,
+      "source": "ObSanté — Factsheet MGEN.1 (2025)",
+      "url": "https://obs.gouvernement.lu/dam-assets/observatoire/documents/factsheets-2025/web-factsheet-mgen1.pdf",
+      "part55": 32.9,
+      "part60": 23.7,
+      "part65": 14.1,
+      "tranches": [
+        {
+          "tranche": "<30",
+          "part": 9.9
+        },
+        {
+          "tranche": "30–34",
+          "part": 13.6
+        },
+        {
+          "tranche": "35–39",
+          "part": 13.1
+        },
+        {
+          "tranche": "40–44",
+          "part": 11.9
+        },
+        {
+          "tranche": "45–49",
+          "part": 9.5
+        },
+        {
+          "tranche": "50–54",
+          "part": 9.3
+        },
+        {
+          "tranche": "55–59",
+          "part": 9.2
+        },
+        {
+          "tranche": "60–64",
+          "part": 9.6
+        },
+        {
+          "tranche": "65+",
+          "part": 14.1
+        }
+      ]
+    },
+    "Pédiatrie": {
+      "annee": 2023,
+      "source": "ObSanté — Factsheet PEDI.1 (2025)",
+      "url": "https://obs.gouvernement.lu/dam-assets/observatoire/documents/factsheets-2025/web-factsheet-pedi1.pdf",
+      "part55": 32.8,
+      "part60": 20.6,
+      "part65": 10.3,
+      "tranches": [
+        {
+          "tranche": "<30",
+          "part": 8.8
+        },
+        {
+          "tranche": "30–34",
+          "part": 10.9
+        },
+        {
+          "tranche": "35–39",
+          "part": 10.9
+        },
+        {
+          "tranche": "40–44",
+          "part": 13.5
+        },
+        {
+          "tranche": "45–49",
+          "part": 16.7
+        },
+        {
+          "tranche": "50–54",
+          "part": 6.5
+        },
+        {
+          "tranche": "55–59",
+          "part": 12.2
+        },
+        {
+          "tranche": "60–64",
+          "part": 10.3
+        },
+        {
+          "tranche": "65+",
+          "part": 10.3
+        }
+      ]
+    }
+  }
+}
